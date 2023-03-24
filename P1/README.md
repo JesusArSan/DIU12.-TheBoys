@@ -1,6 +1,8 @@
 ## DIU - Practica1, entregables
 
-
+# Nombre del Grupo: TheBoys
+# Nombre Autores: Alejandro Sanchez Rodriguez
+# Github: https://github.com/JesusArSan/DIU12.-TheBoys
 
 
 - Desk research: Análisis Competencia 
