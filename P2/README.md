@@ -26,4 +26,5 @@
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Hemos creado un Microsite con el objetivo de promocionar el valor turístico del flamenco. Para lograr esto, aplicamos criterios de Diseño Centrado en el Usuario con el enfoque en el turismo. Se utilizó un diseño sencillo y fácil de navegar para permitir que los usuarios accedan fácilmente a la información más importante y realicen compras en la web sin complicaciones. 
+En resumen, nos enfocamos en crear una experiencia de usuario fluida y agradable del sitio web.
