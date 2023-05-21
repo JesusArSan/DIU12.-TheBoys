@@ -140,7 +140,7 @@ Footer: Pie de página con las redes sociales, información sobre esta, logo y c
 
 La página para la compra es diferente. Posee opciones para personalizar la entrada. Al final se da una especie de resumen de ésta. (Al final está el footer)
 
-En todas las páginas siempre hemos velado por que la información se encuentre balanceada como se puede ver agrupandola en cuadros para ordenarlo todo mucho mejor y que se vea mucho más limpio.
+En todas nuestras páginas, siempre nos hemos asegurado de mantener un equilibrio en la presentación de la información. Para lograr esto, agrupamos la información en cuadros, lo que nos permite ordenarla de manera más efectiva y lograr una apariencia más limpia. Esta técnica nos ayuda a transmitir la información de forma clara y facilita su comprensión para nuestros usuarios. 
 
 Elementos en común: 
 Vertical DropDown. 	Elección de participantes en la compra de entradas.
