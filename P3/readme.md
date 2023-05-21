@@ -6,7 +6,8 @@ LOGOTIPO
 
 Para el logotipo vamos a usar el mismo que se usa en la página oficial de La Alboreá, que es el siguiente: 
 
-(img/logo.png)
+![Método UX](img/logo.png) 1.a Competitive Analysis
+-----
 
 Hemos decidido mantener el logo porque el color (rojo) y las formas que dibuja (especie de flores…) , en nuestra opinión, representa bastante bien el flamenco y la web a la que está dirigida.
 
