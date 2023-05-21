@@ -140,6 +140,8 @@ Footer: Pie de página con las redes sociales, información sobre esta, logo y c
 
 La página para la compra es diferente. Posee opciones para personalizar la entrada. Al final se da una especie de resumen de ésta. (Al final está el footer)
 
+En todas las páginas siempre hemos velado por que la información se encuentre balanceada como se puede ver agrupandola en cuadros para ordenarlo todo mucho mejor y que se vea mucho más limpio.
+
 Elementos en común: 
 Vertical DropDown. 	Elección de participantes en la compra de entradas.
 Horizontal DropDown. Cambio de Idioma
